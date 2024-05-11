@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on random stuff
+🔭 I’m currently working on random stuff\n
 🌱 I’m currently learning Web Dev
 🤔 I’m looking for help on how to use Github 💀
 📫 How to reach me:
