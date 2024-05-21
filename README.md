@@ -4,6 +4,7 @@
 - 🤔 I’m looking for help on how to use Github 💀
 - 📫 How to reach me:
   + https://www.facebook.com/khoi.khuatdang
+  + www.linkedin.com/in/dang-khoi-khuat-4b5847281
   + khoikhuat0807@gmail.com
 
 <!--
