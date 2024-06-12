@@ -7,7 +7,7 @@ I'm an inexperienced web developer, learning to do cool stuff.
 * ✉️  You can contact me at [khoikhuat0807@gmail.com](mailto:khoikhuat0807@gmail.com)
 * 🧠  I'm learning React and Github
 * 🤝  I'm open to collaborating on anything
-* ⚡  My proudest achievement: [astyper.com](https://www.astyper.com/)
+* ⚡  My proudest achievement(s): [astyper.com](https://www.astyper.com/)
 
 ### Skills
 
